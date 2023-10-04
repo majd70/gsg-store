@@ -1,0 +1,14 @@
+{
+   "Name":"الاسم",
+   "ID":"الرقم المعرف",
+   "Slug":"الاسم اللطيف",
+   "Parent Name":"اسم الاب",
+   "Products count" : "عدد المنتجات",
+   "Status" : "الحالة",
+   "Created" : "تاريخ الانشاء",
+   "Category Name": "اسم الصنف",
+   "Parent":"الاب",
+   "Image":"الصورة",
+   "Description":"الوصف"
+
+}
